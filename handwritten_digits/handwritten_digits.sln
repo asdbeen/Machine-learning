@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "handwritten_digits", "handwritten_digits.pyproj", "{243028EE-AD1B-4454-9D3B-EED43C7E9D07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243028EE-AD1B-4454-9D3B-EED43C7E9D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243028EE-AD1B-4454-9D3B-EED43C7E9D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBDA6C00-13A8-432A-8D33-804357984A81}
+	EndGlobalSection
+EndGlobal
